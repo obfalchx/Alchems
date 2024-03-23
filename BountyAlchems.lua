@@ -1,1 +1,0 @@
-game.Players.LocalPlayer:Kick("\nAlchesm ã Dng"\nLiên H Admin D Mua")
